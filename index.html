@@ -408,10 +408,18 @@ function originalName(d){
   const base = decodeURIComponent((d.url || '').split('?')[0].split('/').pop() || '');
   return base || d.fn;
 }
+const BLOB_LIMIT = 600e6;   // Safari kommt mit größeren Blobs nicht klar
 async function browserSave(d, onPct){
   const res = await fetch(d.url);
   if (!res.ok) throw new Error('HTTP ' + res.status);
   const total = +res.headers.get('Content-Length') || 0;
+  if (!window.showSaveFilePicker && total > BLOB_LIMIT) {
+    // kein Datei-Streaming im Browser und zu groß für den Speicher: Video öffnen
+    try { await res.body.cancel(); } catch (e) {}
+    window.open(d.url, '_blank');
+    toast('Zu groß für den Browser-Speicher, das Video ist offen. Dort über Teilen speichern.', 7000);
+    return;
+  }
   if (window.showSaveFilePicker) {
     const h = await window.showSaveFilePicker({ suggestedName: API ? d.fn : originalName(d) });
     const w = await h.createWritable();
