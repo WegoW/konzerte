@@ -70,20 +70,6 @@
   "id": 4
  },
  {
-  "t": "Jazz sous les Pommiers",
-  "a": "China Moses",
-  "y": 2026,
-  "ch": "ARTE.DE",
-  "min": 73,
-  "gb": 1.28,
-  "url": "https://arteptweb-a.akamaihd.net/am/concert/132000/132100/132141-001-D_SQ_0_VO_11168172_MP4-2200_AMM-CONCERT-NEXT-60702186330640_Zbfew.mp4",
-  "web": "https://www.arte.tv/de/videos/132141-001-A/china-moses/",
-  "cat": "Baloise & Klassiker",
-  "fn": "China Moses - Jazz sous les Pommiers (2026).mp4",
-  "col": false,
-  "id": 5
- },
- {
   "t": "Baloise Session",
   "a": "Chris Rea",
   "y": 2017,
@@ -95,7 +81,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Chris Rea - Baloise Session (2017).mp4",
   "col": false,
-  "id": 6
+  "id": 5
  },
  {
   "t": "Music for Montserrat",
@@ -109,7 +95,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Clapton, Collins, Sting & Co. - Music for Montserrat (1997).mp4",
   "col": false,
-  "id": 7
+  "id": 6
  },
  {
   "t": "Baloise Session",
@@ -123,7 +109,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Duran Duran - Baloise Session (2025).mp4",
   "col": false,
-  "id": 8
+  "id": 7
  },
  {
   "t": "Crossroads Guitar Festival",
@@ -137,7 +123,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Eric Clapton - Crossroads Guitar Festival (2023).mp4",
   "col": false,
-  "id": 9
+  "id": 8
  },
  {
   "t": "Crossroads Guitar Festival",
@@ -151,7 +137,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Eric Clapton - Crossroads Guitar Festival (2019).mp4",
   "col": false,
-  "id": 10
+  "id": 9
  },
  {
   "t": "The Lady in the Balcony",
@@ -165,7 +151,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Eric Clapton - The Lady in the Balcony (2021).mp4",
   "col": false,
-  "id": 11
+  "id": 10
  },
  {
   "t": "Across 24 Nights",
@@ -179,7 +165,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Eric Clapton - Across 24 Nights (1990).mp4",
   "col": false,
-  "id": 12
+  "id": 11
  },
  {
   "t": "Baloise Session",
@@ -193,7 +179,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Imelda May - Baloise Session (2017).mp4",
   "col": false,
-  "id": 13
+  "id": 12
  },
  {
   "t": "Hamburg (mit Disko No. 1)",
@@ -207,7 +193,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Jan Delay - Hamburg (mit Disko No. 1) (2024).mp4",
   "col": false,
-  "id": 14
+  "id": 13
  },
  {
   "t": "Summerjam Festival (mit Disko No. 1)",
@@ -221,7 +207,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Jan Delay - Summerjam Festival (mit Disko No. 1) (2023).mp4",
   "col": false,
-  "id": 15
+  "id": 14
  },
  {
   "t": "The Songs of Joni Mitchell (Tribute)",
@@ -235,7 +221,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Joni Mitchell - The Songs of Joni Mitchell (Tribute) (2023).mp4",
   "col": false,
-  "id": 16
+  "id": 15
  },
  {
   "t": "Prince du ska (Doku)",
@@ -249,7 +235,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Madness - Prince du ska (Doku) (2025).mp4",
   "col": false,
-  "id": 17
+  "id": 16
  },
  {
   "t": "Baloise Session",
@@ -263,7 +249,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Madness - Baloise Session (2017).mp4",
   "col": false,
-  "id": 18
+  "id": 17
  },
  {
   "t": "Baloise Session",
@@ -277,21 +263,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Ms. Lauryn Hill - Baloise Session (2018).mp4",
   "col": false,
-  "id": 19
- },
- {
-  "t": "Elbjazz Festival (mit China Moses & Michelle David)",
-  "a": "Nils Landgren",
-  "y": 2021,
-  "ch": "ARTE.DE",
-  "min": 74,
-  "gb": 1.3,
-  "url": "https://arteptweb-a.akamaihd.net/am/ptweb/103000/103800/103808-000-A_SQ_0_VO_09611476_MP4-2200_AMM-PTWEB-80862920473400_2Uach8OaMG.mp4",
-  "web": "https://www.arte.tv/de/videos/103808-000-A/china-moses-nils-landgren-michelle-david/",
-  "cat": "Baloise & Klassiker",
-  "fn": "Nils Landgren - Elbjazz Festival (mit China Moses & Michelle David) (2021).mp4",
-  "col": false,
-  "id": 20
+  "id": 18
  },
  {
   "t": "Leverkusener Jazztage (Nils Landgren & Friends)",
@@ -305,7 +277,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Nils Landgren - Leverkusener Jazztage (Nils Landgren & Friends) (2022).mp4",
   "col": false,
-  "id": 21
+  "id": 19
  },
  {
   "t": "Mr. Red Horn (Porträt)",
@@ -319,7 +291,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Nils Landgren - Mr. Red Horn (Porträt) (2026).mp4",
   "col": false,
-  "id": 22
+  "id": 20
  },
  {
   "t": "Baloise Session",
@@ -333,7 +305,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Norah Jones - Baloise Session (2016).mp4",
   "col": false,
-  "id": 23
+  "id": 21
  },
  {
   "t": "Block Party Berlin",
@@ -347,7 +319,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Peter Fox - Block Party Berlin (2025).mp4",
   "col": false,
-  "id": 24
+  "id": 22
  },
  {
   "t": "Freddie Mercury zum 80. (Doku)",
@@ -361,7 +333,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Queen - Freddie Mercury zum 80. (Doku) (2026).mp4",
   "col": false,
-  "id": 25
+  "id": 23
  },
  {
   "t": "Live at the Franklin Theatre",
@@ -375,7 +347,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Sheryl Crow - Live at the Franklin Theatre (2019).mp4",
   "col": false,
-  "id": 26
+  "id": 24
  },
  {
   "t": "Musikladen-Session",
@@ -389,7 +361,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Stevie Wonder - Musikladen-Session (1974).mp4",
   "col": true,
-  "id": 27
+  "id": 25
  },
  {
   "t": "My Songs, Château de Chambord",
@@ -403,7 +375,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Sting - My Songs, Château de Chambord (2021).mp4",
   "col": false,
-  "id": 28
+  "id": 26
  },
  {
   "t": "A Winter's Night",
@@ -417,7 +389,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Sting - A Winter's Night (2022).mp4",
   "col": false,
-  "id": 29
+  "id": 27
  },
  {
   "t": "Im Panthéon",
@@ -431,7 +403,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Sting - Im Panthéon (2022).mp4",
   "col": false,
-  "id": 30
+  "id": 28
  },
  {
   "t": "Markthalle Hamburg",
@@ -445,7 +417,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "The Police - Markthalle Hamburg (1980).mp4",
   "col": false,
-  "id": 31
+  "id": 29
  },
  {
   "t": "Live in Hyde Park",
@@ -459,7 +431,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "The Who - Live in Hyde Park (2015).mp4",
   "col": false,
-  "id": 32
+  "id": 30
  },
  {
   "t": "Foreign Affair, Barcelona",
@@ -473,7 +445,7 @@
   "cat": "Baloise & Klassiker",
   "fn": "Tina Turner - Foreign Affair, Barcelona (1990).mp4",
   "col": false,
-  "id": 33
+  "id": 31
  },
  {
   "t": "30 Jahre",
@@ -487,7 +459,7 @@
   "cat": "Big Band & Jazz",
   "fn": "Nils Landgren Funk Unit - 30 Jahre (2024).mp4",
   "col": false,
-  "id": 34
+  "id": 32
  },
  {
   "t": "feat. Ray Parker Jr.",
@@ -501,7 +473,7 @@
   "cat": "Big Band & Jazz",
   "fn": "Nils Landgren Funk Unit - feat. Ray Parker Jr. (2019).mp4",
   "col": true,
-  "id": 35
+  "id": 33
  },
  {
   "t": "Foursight Quartet",
@@ -515,7 +487,7 @@
   "cat": "Big Band & Jazz",
   "fn": "Ron Carter - Foursight Quartet (2024).mp4",
   "col": false,
-  "id": 36
+  "id": 34
  },
  {
   "t": "feat. Monty Alexander Trio",
@@ -529,7 +501,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - feat. Monty Alexander Trio (2026).mp4",
   "col": false,
-  "id": 37
+  "id": 35
  },
  {
   "t": "Ron Carter & Richard Galliano",
@@ -543,7 +515,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - Ron Carter & Richard Galliano (2016).mp4",
   "col": false,
-  "id": 38
+  "id": 36
  },
  {
   "t": "African Soul feat. Lionel Loueke",
@@ -557,7 +529,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - African Soul feat. Lionel Loueke (2024).mp4",
   "col": false,
-  "id": 39
+  "id": 37
  },
  {
   "t": "meets Randy Brecker",
@@ -571,7 +543,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - meets Randy Brecker (2026).mp4",
   "col": false,
-  "id": 40
+  "id": 38
  },
  {
   "t": "feat. Lionel Loueke & Dave Holland",
@@ -585,7 +557,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - feat. Lionel Loueke & Dave Holland (2025).mp4",
   "col": false,
-  "id": 41
+  "id": 39
  },
  {
   "t": "feat. Vince Mendoza",
@@ -599,7 +571,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - feat. Vince Mendoza (2025).mp4",
   "col": false,
-  "id": 42
+  "id": 40
  },
  {
   "t": "Emma Rawicz, Young Cats Concert",
@@ -613,7 +585,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - Emma Rawicz, Young Cats Concert (2026).mp4",
   "col": false,
-  "id": 43
+  "id": 41
  },
  {
   "t": "Drummer Queen feat. Terri Lyne Carrington",
@@ -627,7 +599,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - Drummer Queen feat. Terri Lyne Carrington (2024).mp4",
   "col": false,
-  "id": 44
+  "id": 42
  },
  {
   "t": "Stryker Up The Band feat. Dave Stryker",
@@ -641,7 +613,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - Stryker Up The Band feat. Dave Stryker (2026).mp4",
   "col": false,
-  "id": 45
+  "id": 43
  },
  {
   "t": "meets Jimmy Greene (Hildener Jazztage)",
@@ -655,7 +627,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - meets Jimmy Greene (Hildener Jazztage) (2026).mp4",
   "col": false,
-  "id": 46
+  "id": 44
  },
  {
   "t": "feat. Kandace Springs (Leverkusener Jazztage)",
@@ -669,7 +641,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - feat. Kandace Springs (Leverkusener Jazztage) (2018).mp4",
   "col": false,
-  "id": 47
+  "id": 45
  },
  {
   "t": "WDR Jazzpreis feat. Hanno Busch",
@@ -683,7 +655,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - WDR Jazzpreis feat. Hanno Busch (2026).mp4",
   "col": false,
-  "id": 48
+  "id": 46
  },
  {
   "t": "Herbie Hancock & Bob Mintzer",
@@ -697,7 +669,7 @@
   "cat": "Big Band & Jazz",
   "fn": "WDR Big Band - Herbie Hancock & Bob Mintzer (2026).mp4",
   "col": false,
-  "id": 49
+  "id": 47
  },
  {
   "t": "Baltic Soul Weekender",
@@ -711,7 +683,7 @@
   "cat": "Funk & Soul",
   "fn": "Aloe Blacc - Baltic Soul Weekender (2024).mp4",
   "col": false,
-  "id": 50
+  "id": 48
  },
  {
   "t": "Homecoming",
@@ -725,7 +697,7 @@
   "cat": "Funk & Soul",
   "fn": "Chaka Khan - Homecoming (2019).mp4",
   "col": true,
-  "id": 51
+  "id": 49
  },
  {
   "t": "Crossroads Festival (with His Extraordinaires)",
@@ -739,7 +711,7 @@
   "cat": "Funk & Soul",
   "fn": "Charles Bradley - Crossroads Festival (with His Extraordinaires) (2013).mp4",
   "col": false,
-  "id": 52
+  "id": 50
  },
  {
   "t": "Jazzwoche Burghausen (with The Funk Apostles)",
@@ -753,7 +725,7 @@
   "cat": "Funk & Soul",
   "fn": "Cory Henry - Jazzwoche Burghausen (with The Funk Apostles) (2026).mp4",
   "col": false,
-  "id": 53
+  "id": 51
  },
  {
   "t": "Leverkusener Jazztage",
@@ -767,7 +739,7 @@
   "cat": "Funk & Soul",
   "fn": "Curtis Stigers - Leverkusener Jazztage (2024).mp4",
   "col": false,
-  "id": 54
+  "id": 52
  },
  {
   "t": "Donauinselfest",
@@ -781,7 +753,7 @@
   "cat": "Funk & Soul",
   "fn": "Earth, Wind & Fire Experience - Donauinselfest (2026).mp4",
   "col": false,
-  "id": 55
+  "id": 53
  },
  {
   "t": "Baloise Session",
@@ -795,7 +767,7 @@
   "cat": "Funk & Soul",
   "fn": "Gregory Porter - Baloise Session (2022).mp4",
   "col": false,
-  "id": 56
+  "id": 54
  },
  {
   "t": "Jazzwoche Burghausen",
@@ -809,7 +781,7 @@
   "cat": "Funk & Soul",
   "fn": "Gregory Porter - Jazzwoche Burghausen (2025).mp4",
   "col": false,
-  "id": 57
+  "id": 55
  },
  {
   "t": "Leverkusener Jazztage",
@@ -823,7 +795,7 @@
   "cat": "Funk & Soul",
   "fn": "Ida Nielsen & The Funkbots - Leverkusener Jazztage (2022).mp4",
   "col": true,
-  "id": 58
+  "id": 56
  },
  {
   "t": "Baltic Soul Weekender",
@@ -837,7 +809,7 @@
   "cat": "Funk & Soul",
   "fn": "Incognito - Baltic Soul Weekender (2026).mp4",
   "col": false,
-  "id": 59
+  "id": 57
  },
  {
   "t": "Live at Montreux",
@@ -851,7 +823,7 @@
   "cat": "Funk & Soul",
   "fn": "James Brown - Live at Montreux (1981).mp4",
   "col": true,
-  "id": 60
+  "id": 58
  },
  {
   "t": "Earth, Wind & Feiern",
@@ -865,7 +837,7 @@
   "cat": "Funk & Soul",
   "fn": "Jan Delay - Earth, Wind & Feiern (2021).mp4",
   "col": false,
-  "id": 61
+  "id": 59
  },
  {
   "t": "Konzert",
@@ -879,7 +851,7 @@
   "cat": "Funk & Soul",
   "fn": "Jazzkantine - Konzert (2024).mp4",
   "col": false,
-  "id": 62
+  "id": 60
  },
  {
   "t": "Tracks (Porträt)",
@@ -893,7 +865,7 @@
   "cat": "Funk & Soul",
   "fn": "Lee Fields - Tracks (Porträt) (2016).mp4",
   "col": false,
-  "id": 63
+  "id": 61
  },
  {
   "t": "Leverkusener Jazztage",
@@ -907,7 +879,7 @@
   "cat": "Funk & Soul",
   "fn": "Lee Fields & The Expressions - Leverkusener Jazztage (2023).mp4",
   "col": false,
-  "id": 64
+  "id": 62
  },
  {
   "t": "Leverkusener Jazztage",
@@ -921,7 +893,7 @@
   "cat": "Funk & Soul",
   "fn": "Marcus Miller - Leverkusener Jazztage (2025).mp4",
   "col": false,
-  "id": 65
+  "id": 63
  },
  {
   "t": "TSF Jazz Chantilly Festival",
@@ -935,7 +907,7 @@
   "cat": "Funk & Soul",
   "fn": "Marcus Miller - TSF Jazz Chantilly Festival (2025).mp4",
   "col": false,
-  "id": 66
+  "id": 64
  },
  {
   "t": "Leverkusener Jazztage",
@@ -949,7 +921,7 @@
   "cat": "Funk & Soul",
   "fn": "Nik West - Leverkusener Jazztage (2023).mp4",
   "col": false,
-  "id": 67
+  "id": 65
  },
  {
   "t": "Westfalenhalle Dortmund",
@@ -963,7 +935,7 @@
   "cat": "Funk & Soul",
   "fn": "Nina Hagen Band - Westfalenhalle Dortmund (1978).mp4",
   "col": false,
-  "id": 68
+  "id": 66
  },
  {
   "t": "Corazón, Live from Mexico",
@@ -977,7 +949,7 @@
   "cat": "Funk & Soul",
   "fn": "Santana - Corazón, Live from Mexico (2015).mp4",
   "col": false,
-  "id": 69
+  "id": 67
  },
  {
   "t": "Lake Session Montreux (and the Gallands)",
@@ -991,7 +963,7 @@
   "cat": "Funk & Soul",
   "fn": "Selah Sue - Lake Session Montreux (and the Gallands) (2026).mp4",
   "col": false,
-  "id": 70
+  "id": 68
  },
  {
   "t": "Live at Old Trafford",
@@ -1005,7 +977,7 @@
   "cat": "Funk & Soul",
   "fn": "Simply Red - Live at Old Trafford (2000).mp4",
   "col": false,
-  "id": 71
+  "id": 69
  },
  {
   "t": "Leverkusener Jazztage",
@@ -1019,7 +991,7 @@
   "cat": "Funk & Soul",
   "fn": "Tower Of Power - Leverkusener Jazztage (2024).mp4",
   "col": false,
-  "id": 72
+  "id": 70
  },
  {
   "t": "We Want the Funk (Doku)",
@@ -1033,7 +1005,7 @@
   "cat": "Funk & Soul",
   "fn": "Various - We Want the Funk (Doku) (2024).mp4",
   "col": false,
-  "id": 73
+  "id": 71
  },
  {
   "t": "We Want the Funk (Doku, FR)",
@@ -1047,7 +1019,7 @@
   "cat": "Funk & Soul",
   "fn": "Various - We Want the Funk (Doku, FR) (2024).mp4",
   "col": false,
-  "id": 74
+  "id": 72
  },
  {
   "t": "Best Disco in Town, Musikladen-Kultnacht",
@@ -1061,301 +1033,7 @@
   "cat": "Funk & Soul",
   "fn": "Various - Best Disco in Town, Musikladen-Kultnacht (2021).mp4",
   "col": false,
-  "id": 75
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Billy Cobham",
-  "y": 2025,
-  "ch": "WDR",
-  "min": 70,
-  "gb": 2.38,
-  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2026/02/19/671ea579-9724-4306-8adb-33425b5724ba/671ea579-9724-4306-8adb-33425b5724ba_AVC-1080.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDhhZTEwYjMtYzJiZS00YTVlLWE1MDktNWU1Y2E5MDcxN2Q1",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Billy Cobham - Leverkusener Jazztage (2025).mp4",
-  "col": false,
-  "id": 76
- },
- {
-  "t": "Jazz Baltica (Paranoia Tour)",
-  "a": "Bobby Sparks II",
-  "y": 2026,
-  "ch": "ZDF",
-  "min": 112,
-  "gb": 4.49,
-  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260626_sparks_jaz/1/260626_sparks_jaz_6660k_p37v17.mp4",
-  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/bobby-sparks-ii-band-paranoia-tour-2026-100",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Bobby Sparks II - Jazz Baltica (Paranoia Tour) (2026).mp4",
-  "col": false,
-  "id": 77
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Candy Dulfer",
-  "y": 2022,
-  "ch": "ARD",
-  "min": 91,
-  "gb": 3.25,
-  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/282/2826135/2826135_49568315.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWMzYzg3NzIyLTkyYjAtNDdhNy1iZTlkLTdkZDZkMmQ5M2U0Mg",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Candy Dulfer - Leverkusener Jazztage (2022).mp4",
-  "col": false,
-  "id": 78
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Candy Dulfer",
-  "y": 2025,
-  "ch": "WDR",
-  "min": 95,
-  "gb": 3.36,
-  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2025/11/10/d0e52be6-540d-4396-ae7f-d8be3f48e122/d0e52be6-540d-4396-ae7f-d8be3f48e122_AVC-1080.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZGQwYWQ1NzYtN2M2MC00OGY4LThjMmItY2E1MWEzYTlkNzJk",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Candy Dulfer - Leverkusener Jazztage (2025).mp4",
-  "col": true,
-  "id": 79
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Dave Weckl & Tom Kennedy",
-  "y": 2024,
-  "ch": "WDR",
-  "min": 74,
-  "gb": 2.5,
-  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3201871/3201871_60986715.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYzI0NjE1NGYtOThlNC00MzJiLWJiMzctYTE2YzNlNzVmYWQ1",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Dave Weckl & Tom Kennedy - Leverkusener Jazztage (2024).mp4",
-  "col": false,
-  "id": 80
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Dylan Chambers",
-  "y": 2025,
-  "ch": "WDR",
-  "min": 42,
-  "gb": 1.54,
-  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2026/02/19/3b9b9127-58db-41c2-a6c1-8544630a0b4f/3b9b9127-58db-41c2-a6c1-8544630a0b4f_AVC-1080.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNDA1ZWQ4NjUtZTNlMC00MmRmLTg2ZDgtM2FhMDU5NTVhMDQ0",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Dylan Chambers - Leverkusener Jazztage (2025).mp4",
-  "col": false,
-  "id": 81
- },
- {
-  "t": "Leverkusener Jazztage (mit WDR Big Band)",
-  "a": "Elvis Costello",
-  "y": 2025,
-  "ch": "WDR",
-  "min": 73,
-  "gb": 2.35,
-  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2026/03/12/0ce70d8d-249b-4354-ad08-298db8f3d5ee/0ce70d8d-249b-4354-ad08-298db8f3d5ee_AVC-1080.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTVmMDgxNDEtZTcxYS00YWUwLTlhZmQtOTJmOTM3YjdiYmMw",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Elvis Costello - Leverkusener Jazztage (mit WDR Big Band) (2025).mp4",
-  "col": false,
-  "id": 82
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Giacomo Turra",
-  "y": 2024,
-  "ch": "WDR",
-  "min": 62,
-  "gb": 2.19,
-  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3201878/3201878_61135697.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNDk5YzVkZDItNTEyYi00YmExLTkwMjAtMzUxYTM2NjRjNGQx",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Giacomo Turra - Leverkusener Jazztage (2024).mp4",
-  "col": false,
-  "id": 83
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Judith Hill",
-  "y": 2022,
-  "ch": "ARD",
-  "min": 76,
-  "gb": 2.58,
-  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/282/2826085/2826085_49569494.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTE5MjRmZGRkLWZjMWUtNDgwZS1iZTJjLTA3ZjNiZGJiNDQwMw",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Judith Hill - Leverkusener Jazztage (2022).mp4",
-  "col": true,
-  "id": 84
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Kat Eaton",
-  "y": 2024,
-  "ch": "WDR",
-  "min": 70,
-  "gb": 2.45,
-  "url": "http://wdrmedien-a.akamaihd.net/medp/hbbtv/weltweit/fsk0/320/3201879/3201879_61135892.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYTNjNmQyZWUtNjM1Yy00YTQyLWEyMDEtMDcwMjgyMzIyZWY0",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Kat Eaton - Leverkusener Jazztage (2024).mp4",
-  "col": false,
-  "id": 85
- },
- {
-  "t": "Jazzwoche Burghausen",
-  "a": "Keziah Jones",
-  "y": 2024,
-  "ch": "BR",
-  "min": 81,
-  "gb": 1.68,
-  "url": "",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL3ZpZGVvLzJjMWVkYjNlLTY0YmQtNGRlZC05MTVjLTc3NTQ0MzdiN2U5Mw",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Keziah Jones - Jazzwoche Burghausen (2024).mp4",
-  "col": false,
-  "id": 86
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Keziah Jones",
-  "y": 2025,
-  "ch": "WDR",
-  "min": 72,
-  "gb": 2.48,
-  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2025/11/21/16cfb9df-3210-43c9-b620-293c6af0ff6d/16cfb9df-3210-43c9-b620-293c6af0ff6d_AVC-1080.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZjgyMWYxNzMtM2EzZC00ZWZmLTgzMjktMWQ4OWY5NWI0Yjll",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Keziah Jones - Leverkusener Jazztage (2025).mp4",
-  "col": false,
-  "id": 87
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Kurt Elling & Yellowjackets",
-  "y": 2025,
-  "ch": "WDR",
-  "min": 64,
-  "gb": 2.13,
-  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2026/01/20/a1c42415-6ec7-407a-8c51-2fde69d1f957/a1c42415-6ec7-407a-8c51-2fde69d1f957_AVC-1080.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDIxODExNjEtMjM0OS00NTBhLTg3NmEtZTU0N2M4MmU0NjYw",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Kurt Elling & Yellowjackets - Leverkusener Jazztage (2025).mp4",
-  "col": false,
-  "id": 88
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Lehmanns Brothers",
-  "y": 2024,
-  "ch": "WDR",
-  "min": 67,
-  "gb": 2.07,
-  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3201880/3201880_60501660.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtM2Y2ZWMwZjEtZThlNC00MmE5LTk0ZDctZDhjNTY3NjdjYzQ0",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Lehmanns Brothers - Leverkusener Jazztage (2024).mp4",
-  "col": false,
-  "id": 89
- },
- {
-  "t": "Jazzwoche Burghausen",
-  "a": "Lehmanns Brothers",
-  "y": 2025,
-  "ch": "BR",
-  "min": 83,
-  "gb": 2.92,
-  "url": "https://cdn-storage.br.de/b7/2025-03/28/fd85b558-0c16-11f0-a101-02420a000526_HD.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC82YWUzZTFjNS1mOWQ2LTQ3NDItYWQ2Yy0xZmVhODVhNGZlNjFfb25saW5lYnJvYWRjYXN0",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Lehmanns Brothers - Jazzwoche Burghausen (2025).mp4",
-  "col": false,
-  "id": 90
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Mike Stern Band",
-  "y": 2024,
-  "ch": "WDR",
-  "min": 72,
-  "gb": 2.57,
-  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3201873/3201873_61135866.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWQ0ZGJmNjQtODk0Ny00ZWU1LWE0MmItZGE4OTYxNTZjZmM2",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Mike Stern Band - Leverkusener Jazztage (2024).mp4",
-  "col": false,
-  "id": 91
- },
- {
-  "t": "Jazzwoche Burghausen",
-  "a": "Mike Stern Band",
-  "y": 2026,
-  "ch": "BR",
-  "min": 66,
-  "gb": 2.64,
-  "url": "https://cdn-storage.br.de/76/ac/76ace5f6-1c56-44d0-a7d7-60792182cc8e/76ace5f6-1c56-44d0-a7d7-60792182cc8e_HD.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMzUxQTA",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Mike Stern Band - Jazzwoche Burghausen (2026).mp4",
-  "col": false,
-  "id": 92
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Moses Yoofee Trio",
-  "y": 2024,
-  "ch": "WDR",
-  "min": 70,
-  "gb": 2.48,
-  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3201867/3201867_61134258.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtY2JiNmFlZDEtNjNjYi00ODgwLWIzODYtNDE3MGIwMTllZGJh",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Moses Yoofee Trio - Leverkusener Jazztage (2024).mp4",
-  "col": false,
-  "id": 93
- },
- {
-  "t": "Jazzwoche Burghausen (Blue Moods)",
-  "a": "Theo Croker",
-  "y": 2026,
-  "ch": "BR",
-  "min": 89,
-  "gb": 3.51,
-  "url": "https://cdn-storage.br.de/58/ab/58abd9af-7ce6-4a86-bc74-ab8e5a2f8468/58abd9af-7ce6-4a86-bc74-ab8e5a2f8468_HD.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMzUyQTE",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Theo Croker - Jazzwoche Burghausen (Blue Moods) (2026).mp4",
-  "col": false,
-  "id": 94
- },
- {
-  "t": "Leverkusener Jazztage",
-  "a": "Torsten Goods",
-  "y": 2025,
-  "ch": "WDR",
-  "min": 62,
-  "gb": 2.2,
-  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2026/02/24/5fb76caf-9e0f-46a3-a63b-d35b05d0df55/5fb76caf-9e0f-46a3-a63b-d35b05d0df55_AVC-1080.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZjVjNGI2OTktMDk5Yi00YWQ0LTlhMTEtOGU0ZTU2Yzg0OWZl",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Torsten Goods - Leverkusener Jazztage (2025).mp4",
-  "col": false,
-  "id": 95
- },
- {
-  "t": "Stars im Luitpoldhain, Night of Jazz & Friends",
-  "a": "Various",
-  "y": 2026,
-  "ch": "BR",
-  "min": 119,
-  "gb": 6.54,
-  "url": "https://cdn-storage.br.de/4b/c9/4bc9790f-e969-4ea4-9e71-fa53bbafdcab/4bc9790f-e969-4ea4-9e71-fa53bbafdcab_HD.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDA1MTEwQTE",
-  "cat": "Leverkusener 2024/25",
-  "fn": "Various - Stars im Luitpoldhain, Night of Jazz & Friends (2026).mp4",
-  "col": false,
-  "id": 96
+  "id": 73
  },
  {
   "t": "Jazz Baltica",
@@ -1366,10 +1044,668 @@
   "gb": 2.9,
   "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260628_4wd_lindgren_moses_jaz/3/260628_4wd_lindgren_moses_jaz_6660k_p37v17.mp4",
   "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/4-wheel-drive-magnus-lindgren-ida-sand-2026-100",
-  "cat": "Modern & Fusion",
+  "cat": "Jazz-Festivals",
   "fn": "4 Wheel Drive - Jazz Baltica (2026).mp4",
   "col": false,
+  "id": 74
+ },
+ {
+  "t": "Jazz Baltica",
+  "a": "Alma Naidu Quartet",
+  "y": 2026,
+  "ch": "ZDF",
+  "min": 70,
+  "gb": 2.86,
+  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260627_naidu_jaz/1/260627_naidu_jaz_6660k_p37v17.mp4",
+  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/alma-naidu-quartet-2026-100",
+  "cat": "Jazz-Festivals",
+  "fn": "Alma Naidu Quartet - Jazz Baltica (2026).mp4",
+  "col": false,
+  "id": 75
+ },
+ {
+  "t": "Jazz à Porquerolles",
+  "a": "Archie Shepp & Chucho Valdés",
+  "y": 2011,
+  "ch": "ARTE.DE",
+  "min": 53,
+  "gb": 0.94,
+  "url": "https://arteptweb-a.akamaihd.net/am/concert/133000/133200/133222-002-A_SQ_0_VO_11305167_MP4-2200_AMM-CONCERT-NEXT-20260702132350_1EIXamluvNW.mp4",
+  "web": "https://www.arte.tv/de/videos/133222-002-A/archie-shepp-chucho-valdes/",
+  "cat": "Jazz-Festivals",
+  "fn": "Archie Shepp & Chucho Valdés - Jazz à Porquerolles (2011).mp4",
+  "col": false,
+  "id": 76
+ },
+ {
+  "t": "Jazz à Porquerolles",
+  "a": "Archie Shepp & Marc Ribot",
+  "y": 2010,
+  "ch": "ARTE.DE",
+  "min": 60,
+  "gb": 1.05,
+  "url": "https://arteptweb-a.akamaihd.net/am/concert/133000/133200/133222-001-A_SQ_0_VO_11305157_MP4-2200_AMM-CONCERT-NEXT-20260702132524_luvGj.mp4",
+  "web": "https://www.arte.tv/de/videos/133222-001-A/archie-shepp-marc-ribot/",
+  "cat": "Jazz-Festivals",
+  "fn": "Archie Shepp & Marc Ribot - Jazz à Porquerolles (2010).mp4",
+  "col": false,
+  "id": 77
+ },
+ {
+  "t": "Jazz Baltica",
+  "a": "Britta Virves Trio",
+  "y": 2026,
+  "ch": "ZDF",
+  "min": 62,
+  "gb": 2.51,
+  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260627_virves_jaz/1/260627_virves_jaz_6660k_p37v17.mp4",
+  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/britta-virves-trio-2026-100",
+  "cat": "Jazz-Festivals",
+  "fn": "Britta Virves Trio - Jazz Baltica (2026).mp4",
+  "col": false,
+  "id": 78
+ },
+ {
+  "t": "Jazz sous les Pommiers",
+  "a": "China Moses",
+  "y": 2026,
+  "ch": "ARTE.DE",
+  "min": 73,
+  "gb": 1.28,
+  "url": "https://arteptweb-a.akamaihd.net/am/concert/132000/132100/132141-001-D_SQ_0_VO_11168172_MP4-2200_AMM-CONCERT-NEXT-60702186330640_Zbfew.mp4",
+  "web": "https://www.arte.tv/de/videos/132141-001-A/china-moses/",
+  "cat": "Jazz-Festivals",
+  "fn": "China Moses - Jazz sous les Pommiers (2026).mp4",
+  "col": false,
+  "id": 79
+ },
+ {
+  "t": "Jazzwoche Burghausen",
+  "a": "Christian Muthspiel & Orjazztra Vienna",
+  "y": 2024,
+  "ch": "ARD",
+  "min": 94,
+  "gb": 1.67,
+  "url": "",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxNjg2QTI",
+  "cat": "Jazz-Festivals",
+  "fn": "Christian Muthspiel & Orjazztra Vienna - Jazzwoche Burghausen (2024).mp4",
+  "col": false,
+  "id": 80
+ },
+ {
+  "t": "Nancy Jazz Pulsation",
+  "a": "Dhafer Youssef",
+  "y": 2026,
+  "ch": "ARTE.DE",
+  "min": 70,
+  "gb": 0,
+  "url": "",
+  "web": "https://www.arte.tv/de/videos/135161-000-A/dhafer-youssef/",
+  "cat": "Jazz-Festivals",
+  "fn": "Dhafer Youssef - Nancy Jazz Pulsation (2026).mp4",
+  "col": false,
+  "id": 81
+ },
+ {
+  "t": "Jazz Baltica",
+  "a": "Emil Brandqvist Trio",
+  "y": 2026,
+  "ch": "ZDF",
+  "min": 64,
+  "gb": 2.59,
+  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260626_brandqvist_jaz/1/260626_brandqvist_jaz_6660k_p37v17.mp4",
+  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/emil-brandqvist-trio-2026-100",
+  "cat": "Jazz-Festivals",
+  "fn": "Emil Brandqvist Trio - Jazz Baltica (2026).mp4",
+  "col": false,
+  "id": 82
+ },
+ {
+  "t": "TSF Jazz Chantilly Festival",
+  "a": "Isaiah Collier",
+  "y": 2025,
+  "ch": "ARTE.DE",
+  "min": 59,
+  "gb": 1.03,
+  "url": "https://arteconcert-a.akamaihd.net/am/concert/127000/127000/127070-001-A_SQ_0_VO_10155457_MP4-2200_AMM-CONCERT-NEXT-60692371387824_2cCQMm87dn.mp4",
+  "web": "https://www.arte.tv/de/videos/127070-001-A/isaiah-collier/",
+  "cat": "Jazz-Festivals",
+  "fn": "Isaiah Collier - TSF Jazz Chantilly Festival (2025).mp4",
+  "col": false,
+  "id": 83
+ },
+ {
+  "t": "Jazz Baltica",
+  "a": "Ivan Lins, New York Voices & DR Bigband",
+  "y": 2026,
+  "ch": "ZDF",
+  "min": 99,
+  "gb": 3.99,
+  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260625_lins_newyork_drbigband_jaz/2/260625_lins_newyork_drbigband_jaz_6660k_p37v17.mp4",
+  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/ivan-lins-new-york-voices-dr-bigband-2026-100",
+  "cat": "Jazz-Festivals",
+  "fn": "Ivan Lins, New York Voices & DR Bigband - Jazz Baltica (2026).mp4",
+  "col": false,
+  "id": 84
+ },
+ {
+  "t": "Jazzopen Stuttgart",
+  "a": "Jacob Collier",
+  "y": 2025,
+  "ch": "SWR",
+  "min": 79,
+  "gb": 2.26,
+  "url": "https://pdodswr-a.akamaihd.net/swr/geo/de-at-ch/video/kulturmatinee/2264125.avc-1080.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIyNjQxMjU",
+  "cat": "Jazz-Festivals",
+  "fn": "Jacob Collier - Jazzopen Stuttgart (2025).mp4",
+  "col": false,
+  "id": 85
+ },
+ {
+  "t": "Jazz Baltica",
+  "a": "Julia Hofer & David Helbock",
+  "y": 2026,
+  "ch": "ZDF",
+  "min": 57,
+  "gb": 2.37,
+  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260628_helbock_hofer_jaz/3/260628_helbock_hofer_jaz_6660k_p37v17.mp4",
+  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/david-helbock-julia-hofer-2026-100",
+  "cat": "Jazz-Festivals",
+  "fn": "Julia Hofer & David Helbock - Jazz Baltica (2026).mp4",
+  "col": false,
+  "id": 86
+ },
+ {
+  "t": "Jazzwoche Burghausen",
+  "a": "Justina Lee Brown",
+  "y": 2024,
+  "ch": "BR",
+  "min": 60,
+  "gb": 1.25,
+  "url": "",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL3ZpZGVvLzQxMTVjMGNkLWRkMWMtNDdkYi1hOGIwLWYxYTg4Yzk3OGQ2NA",
+  "cat": "Jazz-Festivals",
+  "fn": "Justina Lee Brown - Jazzwoche Burghausen (2024).mp4",
+  "col": false,
+  "id": 87
+ },
+ {
+  "t": "TSF Jazz Chantilly Festival",
+  "a": "Kamasi Washington",
+  "y": 2025,
+  "ch": "ARTE.DE",
+  "min": 56,
+  "gb": 0.98,
+  "url": "https://arteconcert-a.akamaihd.net/am/concert/127000/127000/127070-004-B_SQ_0_VO_10151259_MP4-2200_AMM-CONCERT-NEXT-60692370358104_2c8XPm3o3h.mp4",
+  "web": "https://www.arte.tv/de/videos/127070-004-A/kamasi-washington/",
+  "cat": "Jazz-Festivals",
+  "fn": "Kamasi Washington - TSF Jazz Chantilly Festival (2025).mp4",
+  "col": false,
+  "id": 88
+ },
+ {
+  "t": "Jazz à Porquerolles",
+  "a": "Kenny Garrett",
+  "y": 2026,
+  "ch": "ARTE.DE",
+  "min": 94,
+  "gb": 1.66,
+  "url": "https://arteptweb-a.akamaihd.net/am/concert/133000/133200/133223-003-B_SQ_0_VO_11401911_MP4-2200_AMM-CONCERT-NEXT-60702470307751_spCC6.mp4",
+  "web": "https://www.arte.tv/de/videos/133223-003-A/kenny-garrett/",
+  "cat": "Jazz-Festivals",
+  "fn": "Kenny Garrett - Jazz à Porquerolles (2026).mp4",
+  "col": false,
+  "id": 89
+ },
+ {
+  "t": "Jazz sous les Pommiers",
+  "a": "Marc Ribot Quartet",
+  "y": 2026,
+  "ch": "ARTE.DE",
+  "min": 98,
+  "gb": 1.71,
+  "url": "https://arteconcert-a.akamaihd.net/am/concert/132000/132100/132141-003-A_SQ_0_VO_11122032_MP4-2200_AMM-CONCERT-NEXT-60702169417023_2qhVDYWLdw.mp4",
+  "web": "https://www.arte.tv/de/videos/132141-003-A/marc-ribot-quartet/",
+  "cat": "Jazz-Festivals",
+  "fn": "Marc Ribot Quartet - Jazz sous les Pommiers (2026).mp4",
+  "col": false,
+  "id": 90
+ },
+ {
+  "t": "The Shadow of a Dream",
+  "a": "NDR Bigband",
+  "y": 2026,
+  "ch": "ZDF",
+  "min": 69,
+  "gb": 2.86,
+  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260628_ndrbigband_dream_jaz/3/260628_ndrbigband_dream_jaz_6660k_p37v17.mp4",
+  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/ndr-bigband-shadow-dream-2026-100",
+  "cat": "Jazz-Festivals",
+  "fn": "NDR Bigband - The Shadow of a Dream (2026).mp4",
+  "col": false,
+  "id": 91
+ },
+ {
+  "t": "Elbjazz Festival (mit China Moses & Michelle David)",
+  "a": "Nils Landgren",
+  "y": 2021,
+  "ch": "ARTE.DE",
+  "min": 74,
+  "gb": 1.3,
+  "url": "https://arteptweb-a.akamaihd.net/am/ptweb/103000/103800/103808-000-A_SQ_0_VO_09611476_MP4-2200_AMM-PTWEB-80862920473400_2Uach8OaMG.mp4",
+  "web": "https://www.arte.tv/de/videos/103808-000-A/china-moses-nils-landgren-michelle-david/",
+  "cat": "Jazz-Festivals",
+  "fn": "Nils Landgren - Elbjazz Festival (mit China Moses & Michelle David) (2021).mp4",
+  "col": false,
+  "id": 92
+ },
+ {
+  "t": "Jazz Baltica",
+  "a": "Peter Gall Quintet",
+  "y": 2026,
+  "ch": "ZDF",
+  "min": 59,
+  "gb": 2.35,
+  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260627_gall_jaz/1/260627_gall_jaz_6660k_p37v17.mp4",
+  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/peter-gall-quintet-2026-100",
+  "cat": "Jazz-Festivals",
+  "fn": "Peter Gall Quintet - Jazz Baltica (2026).mp4",
+  "col": false,
+  "id": 93
+ },
+ {
+  "t": "Live at Montreux Jazz Festival",
+  "a": "Raye & Guests",
+  "y": 2026,
+  "ch": "ARTE.DE",
+  "min": 114,
+  "gb": 1.99,
+  "url": "https://arteptweb-a.akamaihd.net/am/concert/132000/132600/132676-000-A_SQ_0_VO_11297577_MP4-2200_AMM-CONCERT-NEXT-80963070461900_liszQ.mp4",
+  "web": "https://www.arte.tv/de/videos/132676-000-A/raye-guests/",
+  "cat": "Jazz-Festivals",
+  "fn": "Raye & Guests - Live at Montreux Jazz Festival (2026).mp4",
+  "col": true,
+  "id": 94
+ },
+ {
+  "t": "Routes",
+  "a": "Samuel Blaser",
+  "y": 2024,
+  "ch": "BR",
+  "min": 88,
+  "gb": 1.77,
+  "url": "",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL3ZpZGVvLzRlYWE0NzU5LTUxNzAtNDIzYy1hNTI2LWRhZjUyZjgyYjhkMw",
+  "cat": "Jazz-Festivals",
+  "fn": "Samuel Blaser - Routes (2024).mp4",
+  "col": false,
+  "id": 95
+ },
+ {
+  "t": "Jazz sous les Pommiers",
+  "a": "Shai Maestro Quartet",
+  "y": 2026,
+  "ch": "ARTE.DE",
+  "min": 98,
+  "gb": 1.72,
+  "url": "https://arteptweb-a.akamaihd.net/am/concert/132000/132100/132141-002-B_SQ_0_VO_11216736_MP4-2200_AMM-CONCERT-NEXT-60702269309024_fMF05.mp4",
+  "web": "https://www.arte.tv/de/videos/132141-002-A/shai-maestro-quartet/",
+  "cat": "Jazz-Festivals",
+  "fn": "Shai Maestro Quartet - Jazz sous les Pommiers (2026).mp4",
+  "col": false,
+  "id": 96
+ },
+ {
+  "t": "Jazz à Porquerolles",
+  "a": "Sona Jobarteh",
+  "y": 2025,
+  "ch": "ARTE.DE",
+  "min": 63,
+  "gb": 1.11,
+  "url": "https://arteconcert-a.akamaihd.net/am/concert/127000/127000/127065-003-A_SQ_0_VO_10241367_MP4-2200_AMM-CONCERT-NEXT-60692466339217_2dVDzsovu9.mp4",
+  "web": "https://www.arte.tv/de/videos/127065-003-A/sona-jobarteh/",
+  "cat": "Jazz-Festivals",
+  "fn": "Sona Jobarteh - Jazz à Porquerolles (2025).mp4",
+  "col": false,
   "id": 97
+ },
+ {
+  "t": "TSF Jazz Chantilly Festival",
+  "a": "Sullivan Fortner Trio",
+  "y": 2025,
+  "ch": "ARTE.DE",
+  "min": 54,
+  "gb": 0.96,
+  "url": "https://arteconcert-a.akamaihd.net/am/concert/127000/127000/127070-003-A_SQ_0_VO_10136792_MP4-2200_AMM-CONCERT-NEXT-60692366378911_2bv8WlnFOU.mp4",
+  "web": "https://www.arte.tv/de/videos/127070-003-A/sullivan-fortner-trio/",
+  "cat": "Jazz-Festivals",
+  "fn": "Sullivan Fortner Trio - TSF Jazz Chantilly Festival (2025).mp4",
+  "col": false,
+  "id": 98
+ },
+ {
+  "t": "Jazzwoche Burghausen",
+  "a": "Wolfgang Haffner All Star Band",
+  "y": 2026,
+  "ch": "BR",
+  "min": 64,
+  "gb": 2.54,
+  "url": "https://cdn-storage.br.de/c0/ea/c0ea4268-074e-48b3-a7a8-3cad7fdb117d/c0ea4268-074e-48b3-a7a8-3cad7fdb117d_HD.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMzUzQTA",
+  "cat": "Jazz-Festivals",
+  "fn": "Wolfgang Haffner All Star Band - Jazzwoche Burghausen (2026).mp4",
+  "col": false,
+  "id": 99
+ },
+ {
+  "t": "Jazzwoche Burghausen",
+  "a": "Zurich Jazz Orchestra",
+  "y": 2026,
+  "ch": "BR",
+  "min": 65,
+  "gb": 2.57,
+  "url": "https://cdn-storage.br.de/a7/47/a7470395-b7cd-429f-b186-df6fed655daa/a7470395-b7cd-429f-b186-df6fed655daa_HD.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMzU5QTA",
+  "cat": "Jazz-Festivals",
+  "fn": "Zurich Jazz Orchestra - Jazzwoche Burghausen (2026).mp4",
+  "col": false,
+  "id": 100
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Billy Cobham",
+  "y": 2025,
+  "ch": "WDR",
+  "min": 70,
+  "gb": 2.38,
+  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2026/02/19/671ea579-9724-4306-8adb-33425b5724ba/671ea579-9724-4306-8adb-33425b5724ba_AVC-1080.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDhhZTEwYjMtYzJiZS00YTVlLWE1MDktNWU1Y2E5MDcxN2Q1",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Billy Cobham - Leverkusener Jazztage (2025).mp4",
+  "col": false,
+  "id": 101
+ },
+ {
+  "t": "Jazz Baltica (Paranoia Tour)",
+  "a": "Bobby Sparks II",
+  "y": 2026,
+  "ch": "ZDF",
+  "min": 112,
+  "gb": 4.49,
+  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260626_sparks_jaz/1/260626_sparks_jaz_6660k_p37v17.mp4",
+  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/bobby-sparks-ii-band-paranoia-tour-2026-100",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Bobby Sparks II - Jazz Baltica (Paranoia Tour) (2026).mp4",
+  "col": false,
+  "id": 102
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Candy Dulfer",
+  "y": 2022,
+  "ch": "ARD",
+  "min": 91,
+  "gb": 3.25,
+  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/282/2826135/2826135_49568315.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWMzYzg3NzIyLTkyYjAtNDdhNy1iZTlkLTdkZDZkMmQ5M2U0Mg",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Candy Dulfer - Leverkusener Jazztage (2022).mp4",
+  "col": false,
+  "id": 103
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Candy Dulfer",
+  "y": 2025,
+  "ch": "WDR",
+  "min": 95,
+  "gb": 3.36,
+  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2025/11/10/d0e52be6-540d-4396-ae7f-d8be3f48e122/d0e52be6-540d-4396-ae7f-d8be3f48e122_AVC-1080.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZGQwYWQ1NzYtN2M2MC00OGY4LThjMmItY2E1MWEzYTlkNzJk",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Candy Dulfer - Leverkusener Jazztage (2025).mp4",
+  "col": true,
+  "id": 104
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Dave Weckl & Tom Kennedy",
+  "y": 2024,
+  "ch": "WDR",
+  "min": 74,
+  "gb": 2.5,
+  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3201871/3201871_60986715.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYzI0NjE1NGYtOThlNC00MzJiLWJiMzctYTE2YzNlNzVmYWQ1",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Dave Weckl & Tom Kennedy - Leverkusener Jazztage (2024).mp4",
+  "col": false,
+  "id": 105
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Dylan Chambers",
+  "y": 2025,
+  "ch": "WDR",
+  "min": 42,
+  "gb": 1.54,
+  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2026/02/19/3b9b9127-58db-41c2-a6c1-8544630a0b4f/3b9b9127-58db-41c2-a6c1-8544630a0b4f_AVC-1080.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNDA1ZWQ4NjUtZTNlMC00MmRmLTg2ZDgtM2FhMDU5NTVhMDQ0",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Dylan Chambers - Leverkusener Jazztage (2025).mp4",
+  "col": false,
+  "id": 106
+ },
+ {
+  "t": "Leverkusener Jazztage (mit WDR Big Band)",
+  "a": "Elvis Costello",
+  "y": 2025,
+  "ch": "WDR",
+  "min": 73,
+  "gb": 2.35,
+  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2026/03/12/0ce70d8d-249b-4354-ad08-298db8f3d5ee/0ce70d8d-249b-4354-ad08-298db8f3d5ee_AVC-1080.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTVmMDgxNDEtZTcxYS00YWUwLTlhZmQtOTJmOTM3YjdiYmMw",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Elvis Costello - Leverkusener Jazztage (mit WDR Big Band) (2025).mp4",
+  "col": false,
+  "id": 107
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Giacomo Turra",
+  "y": 2024,
+  "ch": "WDR",
+  "min": 62,
+  "gb": 2.19,
+  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3201878/3201878_61135697.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNDk5YzVkZDItNTEyYi00YmExLTkwMjAtMzUxYTM2NjRjNGQx",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Giacomo Turra - Leverkusener Jazztage (2024).mp4",
+  "col": false,
+  "id": 108
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Judith Hill",
+  "y": 2022,
+  "ch": "ARD",
+  "min": 76,
+  "gb": 2.58,
+  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/282/2826085/2826085_49569494.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTE5MjRmZGRkLWZjMWUtNDgwZS1iZTJjLTA3ZjNiZGJiNDQwMw",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Judith Hill - Leverkusener Jazztage (2022).mp4",
+  "col": true,
+  "id": 109
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Kat Eaton",
+  "y": 2024,
+  "ch": "WDR",
+  "min": 70,
+  "gb": 2.45,
+  "url": "http://wdrmedien-a.akamaihd.net/medp/hbbtv/weltweit/fsk0/320/3201879/3201879_61135892.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYTNjNmQyZWUtNjM1Yy00YTQyLWEyMDEtMDcwMjgyMzIyZWY0",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Kat Eaton - Leverkusener Jazztage (2024).mp4",
+  "col": false,
+  "id": 110
+ },
+ {
+  "t": "Jazzwoche Burghausen",
+  "a": "Keziah Jones",
+  "y": 2024,
+  "ch": "BR",
+  "min": 81,
+  "gb": 1.68,
+  "url": "",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL3ZpZGVvLzJjMWVkYjNlLTY0YmQtNGRlZC05MTVjLTc3NTQ0MzdiN2U5Mw",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Keziah Jones - Jazzwoche Burghausen (2024).mp4",
+  "col": false,
+  "id": 111
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Keziah Jones",
+  "y": 2025,
+  "ch": "WDR",
+  "min": 72,
+  "gb": 2.48,
+  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2025/11/21/16cfb9df-3210-43c9-b620-293c6af0ff6d/16cfb9df-3210-43c9-b620-293c6af0ff6d_AVC-1080.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZjgyMWYxNzMtM2EzZC00ZWZmLTgzMjktMWQ4OWY5NWI0Yjll",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Keziah Jones - Leverkusener Jazztage (2025).mp4",
+  "col": false,
+  "id": 112
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Kurt Elling & Yellowjackets",
+  "y": 2025,
+  "ch": "WDR",
+  "min": 64,
+  "gb": 2.13,
+  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2026/01/20/a1c42415-6ec7-407a-8c51-2fde69d1f957/a1c42415-6ec7-407a-8c51-2fde69d1f957_AVC-1080.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDIxODExNjEtMjM0OS00NTBhLTg3NmEtZTU0N2M4MmU0NjYw",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Kurt Elling & Yellowjackets - Leverkusener Jazztage (2025).mp4",
+  "col": false,
+  "id": 113
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Lehmanns Brothers",
+  "y": 2024,
+  "ch": "WDR",
+  "min": 67,
+  "gb": 2.07,
+  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3201880/3201880_60501660.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtM2Y2ZWMwZjEtZThlNC00MmE5LTk0ZDctZDhjNTY3NjdjYzQ0",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Lehmanns Brothers - Leverkusener Jazztage (2024).mp4",
+  "col": false,
+  "id": 114
+ },
+ {
+  "t": "Jazzwoche Burghausen",
+  "a": "Lehmanns Brothers",
+  "y": 2025,
+  "ch": "BR",
+  "min": 83,
+  "gb": 2.92,
+  "url": "https://cdn-storage.br.de/b7/2025-03/28/fd85b558-0c16-11f0-a101-02420a000526_HD.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC82YWUzZTFjNS1mOWQ2LTQ3NDItYWQ2Yy0xZmVhODVhNGZlNjFfb25saW5lYnJvYWRjYXN0",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Lehmanns Brothers - Jazzwoche Burghausen (2025).mp4",
+  "col": false,
+  "id": 115
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Mike Stern Band",
+  "y": 2024,
+  "ch": "WDR",
+  "min": 72,
+  "gb": 2.57,
+  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3201873/3201873_61135866.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWQ0ZGJmNjQtODk0Ny00ZWU1LWE0MmItZGE4OTYxNTZjZmM2",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Mike Stern Band - Leverkusener Jazztage (2024).mp4",
+  "col": false,
+  "id": 116
+ },
+ {
+  "t": "Jazzwoche Burghausen",
+  "a": "Mike Stern Band",
+  "y": 2026,
+  "ch": "BR",
+  "min": 66,
+  "gb": 2.64,
+  "url": "https://cdn-storage.br.de/76/ac/76ace5f6-1c56-44d0-a7d7-60792182cc8e/76ace5f6-1c56-44d0-a7d7-60792182cc8e_HD.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMzUxQTA",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Mike Stern Band - Jazzwoche Burghausen (2026).mp4",
+  "col": false,
+  "id": 117
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Moses Yoofee Trio",
+  "y": 2024,
+  "ch": "WDR",
+  "min": 70,
+  "gb": 2.48,
+  "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3201867/3201867_61134258.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtY2JiNmFlZDEtNjNjYi00ODgwLWIzODYtNDE3MGIwMTllZGJh",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Moses Yoofee Trio - Leverkusener Jazztage (2024).mp4",
+  "col": false,
+  "id": 118
+ },
+ {
+  "t": "Jazzwoche Burghausen (Blue Moods)",
+  "a": "Theo Croker",
+  "y": 2026,
+  "ch": "BR",
+  "min": 89,
+  "gb": 3.51,
+  "url": "https://cdn-storage.br.de/58/ab/58abd9af-7ce6-4a86-bc74-ab8e5a2f8468/58abd9af-7ce6-4a86-bc74-ab8e5a2f8468_HD.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMzUyQTE",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Theo Croker - Jazzwoche Burghausen (Blue Moods) (2026).mp4",
+  "col": false,
+  "id": 119
+ },
+ {
+  "t": "Leverkusener Jazztage",
+  "a": "Torsten Goods",
+  "y": 2025,
+  "ch": "WDR",
+  "min": 62,
+  "gb": 2.2,
+  "url": "https://wdr-progressive.ard-mcdn.de/media/p/public/de/2026/02/24/5fb76caf-9e0f-46a3-a63b-d35b05d0df55/5fb76caf-9e0f-46a3-a63b-d35b05d0df55_AVC-1080.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZjVjNGI2OTktMDk5Yi00YWQ0LTlhMTEtOGU0ZTU2Yzg0OWZl",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Torsten Goods - Leverkusener Jazztage (2025).mp4",
+  "col": false,
+  "id": 120
+ },
+ {
+  "t": "Stars im Luitpoldhain, Night of Jazz & Friends",
+  "a": "Various",
+  "y": 2026,
+  "ch": "BR",
+  "min": 119,
+  "gb": 6.54,
+  "url": "https://cdn-storage.br.de/4b/c9/4bc9790f-e969-4ea4-9e71-fa53bbafdcab/4bc9790f-e969-4ea4-9e71-fa53bbafdcab_HD.mp4",
+  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDA1MTEwQTE",
+  "cat": "Leverkusener Jazztage",
+  "fn": "Various - Stars im Luitpoldhain, Night of Jazz & Friends (2026).mp4",
+  "col": false,
+  "id": 121
  },
  {
   "t": "Leverkusener Jazztage",
@@ -1383,49 +1719,7 @@
   "cat": "Modern & Fusion",
   "fn": "Al Di Meola - Leverkusener Jazztage (2026).mp4",
   "col": false,
-  "id": 98
- },
- {
-  "t": "Jazz Baltica",
-  "a": "Alma Naidu Quartet",
-  "y": 2026,
-  "ch": "ZDF",
-  "min": 70,
-  "gb": 2.86,
-  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260627_naidu_jaz/1/260627_naidu_jaz_6660k_p37v17.mp4",
-  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/alma-naidu-quartet-2026-100",
-  "cat": "Modern & Fusion",
-  "fn": "Alma Naidu Quartet - Jazz Baltica (2026).mp4",
-  "col": false,
-  "id": 99
- },
- {
-  "t": "Jazz à Porquerolles",
-  "a": "Archie Shepp & Chucho Valdés",
-  "y": 2011,
-  "ch": "ARTE.DE",
-  "min": 53,
-  "gb": 0.94,
-  "url": "https://arteptweb-a.akamaihd.net/am/concert/133000/133200/133222-002-A_SQ_0_VO_11305167_MP4-2200_AMM-CONCERT-NEXT-20260702132350_1EIXamluvNW.mp4",
-  "web": "https://www.arte.tv/de/videos/133222-002-A/archie-shepp-chucho-valdes/",
-  "cat": "Modern & Fusion",
-  "fn": "Archie Shepp & Chucho Valdés - Jazz à Porquerolles (2011).mp4",
-  "col": false,
-  "id": 100
- },
- {
-  "t": "Jazz à Porquerolles",
-  "a": "Archie Shepp & Marc Ribot",
-  "y": 2010,
-  "ch": "ARTE.DE",
-  "min": 60,
-  "gb": 1.05,
-  "url": "https://arteptweb-a.akamaihd.net/am/concert/133000/133200/133222-001-A_SQ_0_VO_11305157_MP4-2200_AMM-CONCERT-NEXT-20260702132524_luvGj.mp4",
-  "web": "https://www.arte.tv/de/videos/133222-001-A/archie-shepp-marc-ribot/",
-  "cat": "Modern & Fusion",
-  "fn": "Archie Shepp & Marc Ribot - Jazz à Porquerolles (2010).mp4",
-  "col": false,
-  "id": 101
+  "id": 122
  },
  {
   "t": "Leverkusener Jazztage",
@@ -1439,35 +1733,7 @@
   "cat": "Modern & Fusion",
   "fn": "Avishai Cohen - Leverkusener Jazztage (2026).mp4",
   "col": false,
-  "id": 102
- },
- {
-  "t": "Jazz Baltica",
-  "a": "Britta Virves Trio",
-  "y": 2026,
-  "ch": "ZDF",
-  "min": 62,
-  "gb": 2.51,
-  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260627_virves_jaz/1/260627_virves_jaz_6660k_p37v17.mp4",
-  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/britta-virves-trio-2026-100",
-  "cat": "Modern & Fusion",
-  "fn": "Britta Virves Trio - Jazz Baltica (2026).mp4",
-  "col": false,
-  "id": 103
- },
- {
-  "t": "Jazzwoche Burghausen",
-  "a": "Christian Muthspiel & Orjazztra Vienna",
-  "y": 2024,
-  "ch": "ARD",
-  "min": 94,
-  "gb": 1.67,
-  "url": "",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxNjg2QTI",
-  "cat": "Modern & Fusion",
-  "fn": "Christian Muthspiel & Orjazztra Vienna - Jazzwoche Burghausen (2024).mp4",
-  "col": false,
-  "id": 104
+  "id": 123
  },
  {
   "t": "Leverkusener Jazztage",
@@ -1481,7 +1747,7 @@
   "cat": "Modern & Fusion",
   "fn": "Cécile McLorin Salvant - Leverkusener Jazztage (2024).mp4",
   "col": false,
-  "id": 105
+  "id": 124
  },
  {
   "t": "Jump!",
@@ -1495,21 +1761,7 @@
   "cat": "Modern & Fusion",
   "fn": "Céline Bonacina - Jump! (2025).mp4",
   "col": false,
-  "id": 106
- },
- {
-  "t": "Nancy Jazz Pulsation",
-  "a": "Dhafer Youssef",
-  "y": 2026,
-  "ch": "ARTE.DE",
-  "min": 70,
-  "gb": 0,
-  "url": "",
-  "web": "https://www.arte.tv/de/videos/135161-000-A/dhafer-youssef/",
-  "cat": "Modern & Fusion",
-  "fn": "Dhafer Youssef - Nancy Jazz Pulsation (2026).mp4",
-  "col": false,
-  "id": 107
+  "id": 125
  },
  {
   "t": "Live aus Stuttgart",
@@ -1523,7 +1775,7 @@
   "cat": "Modern & Fusion",
   "fn": "Die Fantastischen Vier - Live aus Stuttgart (2025).mp4",
   "col": false,
-  "id": 108
+  "id": 126
  },
  {
   "t": "Pop Around @ Bauhaus",
@@ -1537,7 +1789,7 @@
   "cat": "Modern & Fusion",
   "fn": "Die Fantastischen Vier - Pop Around @ Bauhaus (2025).mp4",
   "col": false,
-  "id": 109
+  "id": 127
  },
  {
   "t": "Jazz Baltica",
@@ -1551,63 +1803,7 @@
   "cat": "Modern & Fusion",
   "fn": "Electro Deluxe - Jazz Baltica (2025).mp4",
   "col": false,
-  "id": 110
- },
- {
-  "t": "Jazz Baltica",
-  "a": "Emil Brandqvist Trio",
-  "y": 2026,
-  "ch": "ZDF",
-  "min": 64,
-  "gb": 2.59,
-  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260626_brandqvist_jaz/1/260626_brandqvist_jaz_6660k_p37v17.mp4",
-  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/emil-brandqvist-trio-2026-100",
-  "cat": "Modern & Fusion",
-  "fn": "Emil Brandqvist Trio - Jazz Baltica (2026).mp4",
-  "col": false,
-  "id": 111
- },
- {
-  "t": "TSF Jazz Chantilly Festival",
-  "a": "Isaiah Collier",
-  "y": 2025,
-  "ch": "ARTE.DE",
-  "min": 59,
-  "gb": 1.03,
-  "url": "https://arteconcert-a.akamaihd.net/am/concert/127000/127000/127070-001-A_SQ_0_VO_10155457_MP4-2200_AMM-CONCERT-NEXT-60692371387824_2cCQMm87dn.mp4",
-  "web": "https://www.arte.tv/de/videos/127070-001-A/isaiah-collier/",
-  "cat": "Modern & Fusion",
-  "fn": "Isaiah Collier - TSF Jazz Chantilly Festival (2025).mp4",
-  "col": false,
-  "id": 112
- },
- {
-  "t": "Jazz Baltica",
-  "a": "Ivan Lins, New York Voices & DR Bigband",
-  "y": 2026,
-  "ch": "ZDF",
-  "min": 99,
-  "gb": 3.99,
-  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260625_lins_newyork_drbigband_jaz/2/260625_lins_newyork_drbigband_jaz_6660k_p37v17.mp4",
-  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/ivan-lins-new-york-voices-dr-bigband-2026-100",
-  "cat": "Modern & Fusion",
-  "fn": "Ivan Lins, New York Voices & DR Bigband - Jazz Baltica (2026).mp4",
-  "col": false,
-  "id": 113
- },
- {
-  "t": "Jazzopen Stuttgart",
-  "a": "Jacob Collier",
-  "y": 2025,
-  "ch": "SWR",
-  "min": 79,
-  "gb": 2.26,
-  "url": "https://pdodswr-a.akamaihd.net/swr/geo/de-at-ch/video/kulturmatinee/2264125.avc-1080.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIyNjQxMjU",
-  "cat": "Modern & Fusion",
-  "fn": "Jacob Collier - Jazzopen Stuttgart (2025).mp4",
-  "col": false,
-  "id": 114
+  "id": 128
  },
  {
   "t": "Konzert in Paris",
@@ -1621,7 +1817,7 @@
   "cat": "Modern & Fusion",
   "fn": "Jamiroquai - Konzert in Paris (2017).mp4",
   "col": false,
-  "id": 115
+  "id": 129
  },
  {
   "t": "Live in Verona",
@@ -1635,63 +1831,7 @@
   "cat": "Modern & Fusion",
   "fn": "Jamiroquai - Live in Verona (2017).mp4",
   "col": true,
-  "id": 116
- },
- {
-  "t": "Jazz Baltica",
-  "a": "Julia Hofer & David Helbock",
-  "y": 2026,
-  "ch": "ZDF",
-  "min": 57,
-  "gb": 2.37,
-  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260628_helbock_hofer_jaz/3/260628_helbock_hofer_jaz_6660k_p37v17.mp4",
-  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/david-helbock-julia-hofer-2026-100",
-  "cat": "Modern & Fusion",
-  "fn": "Julia Hofer & David Helbock - Jazz Baltica (2026).mp4",
-  "col": false,
-  "id": 117
- },
- {
-  "t": "Jazzwoche Burghausen",
-  "a": "Justina Lee Brown",
-  "y": 2024,
-  "ch": "BR",
-  "min": 60,
-  "gb": 1.25,
-  "url": "",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL3ZpZGVvLzQxMTVjMGNkLWRkMWMtNDdkYi1hOGIwLWYxYTg4Yzk3OGQ2NA",
-  "cat": "Modern & Fusion",
-  "fn": "Justina Lee Brown - Jazzwoche Burghausen (2024).mp4",
-  "col": false,
-  "id": 118
- },
- {
-  "t": "TSF Jazz Chantilly Festival",
-  "a": "Kamasi Washington",
-  "y": 2025,
-  "ch": "ARTE.DE",
-  "min": 56,
-  "gb": 0.98,
-  "url": "https://arteconcert-a.akamaihd.net/am/concert/127000/127000/127070-004-B_SQ_0_VO_10151259_MP4-2200_AMM-CONCERT-NEXT-60692370358104_2c8XPm3o3h.mp4",
-  "web": "https://www.arte.tv/de/videos/127070-004-A/kamasi-washington/",
-  "cat": "Modern & Fusion",
-  "fn": "Kamasi Washington - TSF Jazz Chantilly Festival (2025).mp4",
-  "col": false,
-  "id": 119
- },
- {
-  "t": "Jazz à Porquerolles",
-  "a": "Kenny Garrett",
-  "y": 2026,
-  "ch": "ARTE.DE",
-  "min": 94,
-  "gb": 1.66,
-  "url": "https://arteptweb-a.akamaihd.net/am/concert/133000/133200/133223-003-B_SQ_0_VO_11401911_MP4-2200_AMM-CONCERT-NEXT-60702470307751_spCC6.mp4",
-  "web": "https://www.arte.tv/de/videos/133223-003-A/kenny-garrett/",
-  "cat": "Modern & Fusion",
-  "fn": "Kenny Garrett - Jazz à Porquerolles (2026).mp4",
-  "col": false,
-  "id": 120
+  "id": 130
  },
  {
   "t": "Leverkusener Jazztage",
@@ -1705,7 +1845,7 @@
   "cat": "Modern & Fusion",
   "fn": "Kokoroko - Leverkusener Jazztage (2025).mp4",
   "col": false,
-  "id": 121
+  "id": 131
  },
  {
   "t": "Jazzwoche Burghausen",
@@ -1719,7 +1859,7 @@
   "cat": "Modern & Fusion",
   "fn": "Latvian Radio Big Band feat. Randy Brecker - Jazzwoche Burghausen (2018).mp4",
   "col": false,
-  "id": 122
+  "id": 132
  },
  {
   "t": "Leverkusener Jazztage",
@@ -1733,7 +1873,7 @@
   "cat": "Modern & Fusion",
   "fn": "Lawrence - Leverkusener Jazztage (2025).mp4",
   "col": true,
-  "id": 123
+  "id": 133
  },
  {
   "t": "Jazz Baltica",
@@ -1747,7 +1887,7 @@
   "cat": "Modern & Fusion",
   "fn": "Les Égarés - Jazz Baltica (2025).mp4",
   "col": false,
-  "id": 124
+  "id": 134
  },
  {
   "t": "Bardentreffen",
@@ -1761,7 +1901,7 @@
   "cat": "Modern & Fusion",
   "fn": "London Afrobeat Collective - Bardentreffen (2023).mp4",
   "col": false,
-  "id": 125
+  "id": 135
  },
  {
   "t": "Rebel Heart Tour",
@@ -1775,7 +1915,7 @@
   "cat": "Modern & Fusion",
   "fn": "Madonna - Rebel Heart Tour (2015).mp4",
   "col": false,
-  "id": 126
+  "id": 136
  },
  {
   "t": "The MDNA Tour",
@@ -1789,21 +1929,7 @@
   "cat": "Modern & Fusion",
   "fn": "Madonna - The MDNA Tour (2012).mp4",
   "col": false,
-  "id": 127
- },
- {
-  "t": "Jazz sous les Pommiers",
-  "a": "Marc Ribot Quartet",
-  "y": 2026,
-  "ch": "ARTE.DE",
-  "min": 98,
-  "gb": 1.71,
-  "url": "https://arteconcert-a.akamaihd.net/am/concert/132000/132100/132141-003-A_SQ_0_VO_11122032_MP4-2200_AMM-CONCERT-NEXT-60702169417023_2qhVDYWLdw.mp4",
-  "web": "https://www.arte.tv/de/videos/132141-003-A/marc-ribot-quartet/",
-  "cat": "Modern & Fusion",
-  "fn": "Marc Ribot Quartet - Jazz sous les Pommiers (2026).mp4",
-  "col": false,
-  "id": 128
+  "id": 137
  },
  {
   "t": "Jazz Baltica",
@@ -1817,7 +1943,7 @@
   "cat": "Modern & Fusion",
   "fn": "Mare Nostrum - Jazz Baltica (2025).mp4",
   "col": false,
-  "id": 129
+  "id": 138
  },
  {
   "t": "In Concert, Paris Odéon",
@@ -1831,7 +1957,7 @@
   "cat": "Modern & Fusion",
   "fn": "Melanie De Biasio - In Concert, Paris Odéon (2021).mp4",
   "col": false,
-  "id": 130
+  "id": 139
  },
  {
   "t": "Leverkusener Jazztage",
@@ -1845,21 +1971,7 @@
   "cat": "Modern & Fusion",
   "fn": "Michael Wollny Trio - Leverkusener Jazztage (2025).mp4",
   "col": false,
-  "id": 131
- },
- {
-  "t": "The Shadow of a Dream",
-  "a": "NDR Bigband",
-  "y": 2026,
-  "ch": "ZDF",
-  "min": 69,
-  "gb": 2.86,
-  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260628_ndrbigband_dream_jaz/3/260628_ndrbigband_dream_jaz_6660k_p37v17.mp4",
-  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/ndr-bigband-shadow-dream-2026-100",
-  "cat": "Modern & Fusion",
-  "fn": "NDR Bigband - The Shadow of a Dream (2026).mp4",
-  "col": false,
-  "id": 132
+  "id": 140
  },
  {
   "t": "Jazz Baltica",
@@ -1873,21 +1985,7 @@
   "cat": "Modern & Fusion",
   "fn": "Nils Wülker & Arne Jansen - Jazz Baltica (2025).mp4",
   "col": false,
-  "id": 133
- },
- {
-  "t": "Jazz Baltica",
-  "a": "Peter Gall Quintet",
-  "y": 2026,
-  "ch": "ZDF",
-  "min": 59,
-  "gb": 2.35,
-  "url": "https://nrodlzdf-a.akamaihd.net/none/zdf/26/06/260627_gall_jaz/1/260627_gall_jaz_6660k_p37v17.mp4",
-  "web": "https://www.zdf.de/video/konzerte/jazz-baltica-102/peter-gall-quintet-2026-100",
-  "cat": "Modern & Fusion",
-  "fn": "Peter Gall Quintet - Jazz Baltica (2026).mp4",
-  "col": false,
-  "id": 134
+  "id": 141
  },
  {
   "t": "Jazz Baltica",
@@ -1901,7 +1999,7 @@
   "cat": "Modern & Fusion",
   "fn": "Peter Somuah Quartet - Jazz Baltica (2025).mp4",
   "col": false,
-  "id": 135
+  "id": 142
  },
  {
   "t": "Sign o' the Times",
@@ -1915,7 +2013,7 @@
   "cat": "Modern & Fusion",
   "fn": "Prince - Sign o' the Times (1987).mp4",
   "col": true,
-  "id": 136
+  "id": 143
  },
  {
   "t": "Rave Un2 The Year 2000",
@@ -1929,7 +2027,7 @@
   "cat": "Modern & Fusion",
   "fn": "Prince - Rave Un2 The Year 2000 (1999).mp4",
   "col": true,
-  "id": 137
+  "id": 144
  },
  {
   "t": "Leverkusener Jazztage",
@@ -1943,21 +2041,7 @@
   "cat": "Modern & Fusion",
   "fn": "Quadro Nuevo - Leverkusener Jazztage (2025).mp4",
   "col": false,
-  "id": 138
- },
- {
-  "t": "Jazzopen Stuttgart",
-  "a": "Raye",
-  "y": 2025,
-  "ch": "ARTE.DE",
-  "min": 114,
-  "gb": 1.99,
-  "url": "https://arteptweb-a.akamaihd.net/am/concert/132000/132600/132676-000-A_SQ_0_VO_11297577_MP4-2200_AMM-CONCERT-NEXT-80963070461900_liszQ.mp4",
-  "web": "https://www.arte.tv/de/videos/132676-000-A/raye-guests/",
-  "cat": "Modern & Fusion",
-  "fn": "Raye - Jazzopen Stuttgart (2025).mp4",
-  "col": false,
-  "id": 139
+  "id": 145
  },
  {
   "t": "Mit der hr-Bigband",
@@ -1971,7 +2055,7 @@
   "cat": "Modern & Fusion",
   "fn": "Richard Bona - Mit der hr-Bigband (2026).mp4",
   "col": false,
-  "id": 140
+  "id": 146
  },
  {
   "t": "Konzert",
@@ -1985,35 +2069,7 @@
   "cat": "Modern & Fusion",
   "fn": "Robert Randolph Band - Konzert (2023).mp4",
   "col": false,
-  "id": 141
- },
- {
-  "t": "Routes",
-  "a": "Samuel Blaser",
-  "y": 2024,
-  "ch": "BR",
-  "min": 88,
-  "gb": 1.77,
-  "url": "",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL3ZpZGVvLzRlYWE0NzU5LTUxNzAtNDIzYy1hNTI2LWRhZjUyZjgyYjhkMw",
-  "cat": "Modern & Fusion",
-  "fn": "Samuel Blaser - Routes (2024).mp4",
-  "col": false,
-  "id": 142
- },
- {
-  "t": "Jazz sous les Pommiers",
-  "a": "Shai Maestro Quartet",
-  "y": 2026,
-  "ch": "ARTE.DE",
-  "min": 98,
-  "gb": 1.72,
-  "url": "https://arteptweb-a.akamaihd.net/am/concert/132000/132100/132141-002-B_SQ_0_VO_11216736_MP4-2200_AMM-CONCERT-NEXT-60702269309024_fMF05.mp4",
-  "web": "https://www.arte.tv/de/videos/132141-002-A/shai-maestro-quartet/",
-  "cat": "Modern & Fusion",
-  "fn": "Shai Maestro Quartet - Jazz sous les Pommiers (2026).mp4",
-  "col": false,
-  "id": 143
+  "id": 147
  },
  {
   "t": "Jazz Baltica",
@@ -2027,21 +2083,7 @@
   "cat": "Modern & Fusion",
   "fn": "Shuteen Erdenebaatar Quartet - Jazz Baltica (2025).mp4",
   "col": false,
-  "id": 144
- },
- {
-  "t": "Jazz à Porquerolles",
-  "a": "Sona Jobarteh",
-  "y": 2025,
-  "ch": "ARTE.DE",
-  "min": 63,
-  "gb": 1.11,
-  "url": "https://arteconcert-a.akamaihd.net/am/concert/127000/127000/127065-003-A_SQ_0_VO_10241367_MP4-2200_AMM-CONCERT-NEXT-60692466339217_2dVDzsovu9.mp4",
-  "web": "https://www.arte.tv/de/videos/127065-003-A/sona-jobarteh/",
-  "cat": "Modern & Fusion",
-  "fn": "Sona Jobarteh - Jazz à Porquerolles (2025).mp4",
-  "col": false,
-  "id": 145
+  "id": 148
  },
  {
   "t": "Jubiläumskonzert KKL",
@@ -2055,21 +2097,7 @@
   "cat": "Modern & Fusion",
   "fn": "Stephan Eicher - Jubiläumskonzert KKL (2020).mp4",
   "col": false,
-  "id": 146
- },
- {
-  "t": "TSF Jazz Chantilly Festival",
-  "a": "Sullivan Fortner Trio",
-  "y": 2025,
-  "ch": "ARTE.DE",
-  "min": 54,
-  "gb": 0.96,
-  "url": "https://arteconcert-a.akamaihd.net/am/concert/127000/127000/127070-003-A_SQ_0_VO_10136792_MP4-2200_AMM-CONCERT-NEXT-60692366378911_2bv8WlnFOU.mp4",
-  "web": "https://www.arte.tv/de/videos/127070-003-A/sullivan-fortner-trio/",
-  "cat": "Modern & Fusion",
-  "fn": "Sullivan Fortner Trio - TSF Jazz Chantilly Festival (2025).mp4",
-  "col": false,
-  "id": 147
+  "id": 149
  },
  {
   "t": "Living Being",
@@ -2082,34 +2110,6 @@
   "web": "https://www.arte.tv/de/videos/128862-008-A/vincent-peirani-living-being/",
   "cat": "Modern & Fusion",
   "fn": "Vincent Peirani - Living Being (2025).mp4",
-  "col": false,
-  "id": 148
- },
- {
-  "t": "Jazzwoche Burghausen",
-  "a": "Wolfgang Haffner All Star Band",
-  "y": 2026,
-  "ch": "BR",
-  "min": 64,
-  "gb": 2.54,
-  "url": "https://cdn-storage.br.de/c0/ea/c0ea4268-074e-48b3-a7a8-3cad7fdb117d/c0ea4268-074e-48b3-a7a8-3cad7fdb117d_HD.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMzUzQTA",
-  "cat": "Modern & Fusion",
-  "fn": "Wolfgang Haffner All Star Band - Jazzwoche Burghausen (2026).mp4",
-  "col": false,
-  "id": 149
- },
- {
-  "t": "Jazzwoche Burghausen",
-  "a": "Zurich Jazz Orchestra",
-  "y": 2026,
-  "ch": "BR",
-  "min": 65,
-  "gb": 2.57,
-  "url": "https://cdn-storage.br.de/a7/47/a7470395-b7cd-429f-b186-df6fed655daa/a7470395-b7cd-429f-b186-df6fed655daa_HD.mp4",
-  "web": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMzU5QTA",
-  "cat": "Modern & Fusion",
-  "fn": "Zurich Jazz Orchestra - Jazzwoche Burghausen (2026).mp4",
   "col": false,
   "id": 150
  }
