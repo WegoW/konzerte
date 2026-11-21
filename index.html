@@ -23,6 +23,10 @@
   h1 span{background:linear-gradient(100deg,var(--acc),var(--acc2)); -webkit-background-clip:text; background-clip:text; color:transparent}
   .sub{color:var(--dim); font-size:13px; max-width:800px}
   .sub code{color:#c9d1e4}
+  .stamp{margin-top:10px; display:flex; align-items:center; gap:7px; flex-wrap:wrap;
+    font-size:11.5px; color:var(--dim)}
+  .stamp b{color:#c9d1e4; font-weight:600; font-variant-numeric:tabular-nums}
+  .stamp .sep{opacity:.35}
   .stats{display:flex; gap:18px; flex-wrap:wrap}
   .stat b{display:block; font-size:17px; line-height:1.1}
   .stat small{color:var(--dim); font-size:10px; text-transform:uppercase; letter-spacing:.1em}
@@ -150,6 +154,7 @@
       <div class="kicker">MediathekView · kuratiert</div>
       <h1>Konzerte <span>- ganz nach meinem Musikgeschmack</span></h1>
       <div class="sub">Funk, Soul und Jazz aus den öffentlichen Mediatheken, quer durch die letzten Jahrzehnte. Ein Klick auf „ansehen“ spielt das Konzert gleich hier im Fenster ab, gestreamt direkt aus der Mediathek. Nichts wird heruntergeladen, nichts gespeichert.</div>
+      <div class="stamp">Letzter Zulauf: <b>+3</b> am 20.11.2026 <span class="sep">·</span> Neuaufbau jeden Freitag um 04:30 Uhr</div>
     </div>
     <div class="stats">
       <div class="stat"><b>176</b><small>Konzerte</small></div>
@@ -228,6 +233,10 @@ const COLORS = {"Funk & Soul":"#ff7a45","Leverkusener Jazztage":"#7c5cff","Big B
 const NEW_DAYS = 7;                       // so lange gilt ein Eintrag als neu
 const isNew = d => !!d.added && (Date.now() - Date.parse(d.added + 'T00:00:00')) < NEW_DAYS * 864e5;
 const newCount = DATA.filter(isNew).length;
+// Aufschlüsselung nach Zulauf-Tag, damit "neu 66" nicht wie eine stehende Zahl wirkt
+const newByDay = DATA.filter(isNew).reduce((m, d) => (m[d.added] = (m[d.added] || 0) + 1, m), {});
+const newBreak = Object.keys(newByDay).sort().reverse()
+  .map(k => `${newByDay[k]} vom ${k.split('-').reverse().join('.')}`).join(', ');
 let activeCat = 'Alle', sortKey = 'a', sortDir = 1;
 const sel = new Set();
 let jobsByItem = {}, queueOpen = true;
@@ -245,7 +254,7 @@ const qCount = document.getElementById('qCount'), qState = document.getElementBy
   b.className = 'chip' + (i === 0 ? ' on' : '') + (c === 'neu' ? ' neu' : '');
   b.dataset.cat = c;
   b.innerHTML = c === 'neu' ? 'neu' + (n ? `<span class="cnt">${n}</span>` : '') : esc(c);
-  b.title = c === 'neu' ? `in den letzten ${NEW_DAYS} Tagen dazugekommen` : '';
+  b.title = c === 'neu' ? `in den letzten ${NEW_DAYS} Tagen dazugekommen` + (newBreak ? `: ${newBreak}` : '') : '';
   b.onclick = () => { activeCat = c; [...chips.children].forEach(x => x.classList.toggle('on', x === b)); draw(); };
   chips.appendChild(b);
 });
